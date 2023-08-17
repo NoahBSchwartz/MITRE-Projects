@@ -4,7 +4,7 @@
 
 ## 🏢 Public-Facing Projects
 
-### Researching the effects of hospital locations on COPD
+#### Researching the effects of hospital locations on COPD
 
 1. I developed an Agent-Based Model in Netlogo to simulate individual patients on a large time scale.
 2. I used real hospital location data and population statistics for maximum accuracy.
@@ -13,7 +13,7 @@
 <img src="https://github.com/NoahBSchwartz/MITRE-Projects/assets/44248582/14b81f23-80bb-4985-b2c2-f8c643991ec8" width="200" alt="unnamed (2)">
 <img src="https://github.com/NoahBSchwartz/MITRE-Projects/assets/44248582/cb028d20-261f-4d22-a170-df253deaa556" width="200" alt="unnamed (3)">
 
-### Building a global object search engine
+#### Building a global object search engine
 
 1. We built a tool to search for any object in any part of the world.
 2. It can search for castles in Spain or carwashes in Peru or any of the other 3000 categories.
