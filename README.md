@@ -1,5 +1,5 @@
 # MITRE-Projects
-While I can't share the full code of any of my contributions, I'm able to give a brief overview of each. I worked on 4 different projects over my 2 summers in teams of 2-8 people
+While I can't share the full code for many of my contributions, I'm able to give a brief overview of each. I worked on 4 different projects over my 2 summers in teams of 2-8 people
 
 ## Public-Facing Projects:
 
