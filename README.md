@@ -1,6 +1,6 @@
 # MITRE-Projects
 
-> I can't share the full code for many of my contributions, but here are some brief overviews.
+> I can't share the full code for many of my contributions, but here are some brief overviews
 
 ## 🏢 Public-Facing Projects
 
