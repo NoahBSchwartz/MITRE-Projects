@@ -6,5 +6,5 @@ While I can't share the full code for many of my contributions, I'm able to give
 ## AI Hackathons:
 
 ## Classified Projects:
-I worked with visualizing defense data using the AFSIM software 
-I worked to set up and validate virtual machines
+1. I worked with visualizing defense data using the AFSIM software 
+2. I worked to set up and validate virtual machines
